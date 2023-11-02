@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\01.Cinema\02.SummerClothing\bin\Debug\net6.0\02.SummerClothing.exe
+C:\Users\Admin\source\repos\01.Cinema\02.SummerClothing\bin\Debug\net6.0\02.SummerClothing.deps.json
+C:\Users\Admin\source\repos\01.Cinema\02.SummerClothing\bin\Debug\net6.0\02.SummerClothing.runtimeconfig.json
+C:\Users\Admin\source\repos\01.Cinema\02.SummerClothing\bin\Debug\net6.0\02.SummerClothing.dll
+C:\Users\Admin\source\repos\01.Cinema\02.SummerClothing\bin\Debug\net6.0\02.SummerClothing.pdb
+C:\Users\Admin\source\repos\01.Cinema\02.SummerClothing\obj\Debug\net6.0\02.SummerClothing.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\01.Cinema\02.SummerClothing\obj\Debug\net6.0\02.SummerClothing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\01.Cinema\02.SummerClothing\obj\Debug\net6.0\02.SummerClothing.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\01.Cinema\02.SummerClothing\obj\Debug\net6.0\02.SummerClothing.AssemblyInfo.cs
+C:\Users\Admin\source\repos\01.Cinema\02.SummerClothing\obj\Debug\net6.0\02.SummerClothing.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\01.Cinema\02.SummerClothing\obj\Debug\net6.0\02.SummerClothing.dll
+C:\Users\Admin\source\repos\01.Cinema\02.SummerClothing\obj\Debug\net6.0\refint\02.SummerClothing.dll
+C:\Users\Admin\source\repos\01.Cinema\02.SummerClothing\obj\Debug\net6.0\02.SummerClothing.pdb
+C:\Users\Admin\source\repos\01.Cinema\02.SummerClothing\obj\Debug\net6.0\02.SummerClothing.genruntimeconfig.cache
+C:\Users\Admin\source\repos\01.Cinema\02.SummerClothing\obj\Debug\net6.0\ref\02.SummerClothing.dll
